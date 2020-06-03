@@ -1,0 +1,3 @@
+/Users/glebshigin/CLionProjects/File_sorter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/glebshigin/CLionProjects/File_sorter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/glebshigin/CLionProjects/File_sorter/cmake-build-debug/CMakeFiles/File_sorter.dir

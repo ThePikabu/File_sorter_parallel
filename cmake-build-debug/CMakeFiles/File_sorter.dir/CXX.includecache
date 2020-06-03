@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/glebshigin/CLionProjects/File_sorter/fileMaker.h
+
+/Users/glebshigin/CLionProjects/File_sorter/main.cpp
+iostream
+-
+fstream
+-
+fileMaker.h
+/Users/glebshigin/CLionProjects/File_sorter/fileMaker.h
+algorithm
+-
+thread
+-
+iosfwd
+-
+vector
+-
+queue
+-
+numeric
+-
+
